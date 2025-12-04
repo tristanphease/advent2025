@@ -4,6 +4,7 @@ Don't really know what language to do it in, will use a different language each 
 
 Days:
 
-- Rust
-- Gleam
+- [Rust](https://rust-lang.org/)
+- [Gleam](https://gleam.run/)
 - C
+- [Uiua](https://www.uiua.org/)
