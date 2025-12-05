@@ -8,3 +8,4 @@ Days:
 - [Gleam](https://gleam.run/)
 - C
 - [Uiua](https://www.uiua.org/)
+- [Kotlin](https://kotlinlang.org/)
