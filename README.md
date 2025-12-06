@@ -9,3 +9,4 @@ Days:
 - C
 - [Uiua](https://www.uiua.org/)
 - [Kotlin](https://kotlinlang.org/)
+- [F#](https://fsharp.org/)
