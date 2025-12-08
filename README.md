@@ -11,3 +11,4 @@ Days:
 - [Kotlin](https://kotlinlang.org/)
 - [F#](https://fsharp.org/)
 - [Python](https://www.python.org/)
+- [Ruby](https://www.ruby-lang.org/)
