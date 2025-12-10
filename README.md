@@ -6,9 +6,11 @@ Days:
 
 - [Rust](https://rust-lang.org/)
 - [Gleam](https://gleam.run/)
-- C
+- [C](https://www.c-language.org/)
 - [Uiua](https://www.uiua.org/)
 - [Kotlin](https://kotlinlang.org/)
 - [F#](https://fsharp.org/)
 - [Python](https://www.python.org/)
 - [Ruby](https://www.ruby-lang.org/)
+- [Zig](https://ziglang.org/)
+- [Java](https://dev.java/)
