@@ -20,6 +20,9 @@ public static class Parser
             var device = deviceStrings[deviceIndex];
             var deviceIndexes = new List<int>();
             var isInput = device.deviceName == "you";
+            var isServer = device.deviceName == "svr";
+            var isDAC = device.deviceName == "dac";
+            var isFFT = device.deviceName == "fft";
             var isOutput = false;
             foreach (var outputDevice in device.outputDevices)
             {
@@ -38,6 +41,9 @@ public static class Parser
                 outputIndexes = deviceIndexes,
                 isOutput = isOutput,
                 isInput = isInput,
+                isServer = isServer,
+                isDAC = isDAC,
+                isFFT = isFFT,
             });
         }
 
